@@ -2,7 +2,7 @@
 <?php
 
     //variables
-    $directory = './'; // Replace with the actual directory path
+    $directory = '../'; // Replace with the actual directory path
     $gitServerURL = 'http://192.168.1.227:3000/chrisgreen/'; // Replace with your Git server URL
     $githubURL = 'https://github.com/chriscookiegreen/';
     
